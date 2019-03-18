@@ -1,3 +1,3 @@
-# Smart Web Security Pinger
+# i-FILTER Pinger
 
-Description goes here.
+Ping web sites from machines behind i-FILTER.
